@@ -1,0 +1,18 @@
+{
+  "name": "Pterosaur",
+  "slug": "Pterosaur",
+  "date": "2022-10-22",
+  "highlight": "Pterosaur is creating a project to combine DeFi and Meta-Universe technologies to provide users with highly profitable, easy and fun experiences on Web3.",
+  "logo": "/img/pterosaur.svg",
+  "tags": ["defi","nft"],
+  "status": "live",
+  "website": "https://www.pterosaur.finance/",
+  "twitter": "https://twitter.com/Pterosaur_fi",
+  "summary": "Pterosaur is creating a project to combine DeFi and Meta-Universe technologies to provide users with highly profitable, easy and fun experiences on Web3.",
+  "telegram": "https://t.me/pterosaur_finance_official/",
+  "discord": "https://discord.com/invite/7AwNTUYgbc",
+  "docs":"https://docs.pterosaur.finance/",
+  "github":"https://github.com/PterosaurFinance",
+  "token":"PTER",
+  "cmc":"https://www.coingecko.com/en/coins/pterosaur-finance"
+}
